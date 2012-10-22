@@ -36,11 +36,11 @@ while True:
 for row in page.xpath(path):
     r = [stock]
     for td in row.xpath('td'):
-        r += [td.text]
+        r += [td.text.strip()]
 
     if (len(r)>2):
         results.writerow(r)
 
-    results.flush()
+    #results.flush()
   
 #results.close
