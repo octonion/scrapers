@@ -11,7 +11,7 @@ base = "http://finance.yahoo.com"
 # Stock symbol
 stock = "YHOO"
 
-# Date range - last two weeks
+# Date range - two weeks
 first = [9,8,2012]
 last = [9,22,2012]
 
@@ -24,7 +24,7 @@ freq = "d"
 # This variation skips the first row
 path = "//*[@id='yfncsumtab']/tr[2]/td[1]/table[4]/tr/td/table/tr[position() > 1]"
 
-results = CSV.open("stocks.csv","w")
+results = CSV.open("stocks_ruby.csv","w")
 
 url = "#{base}/q/hp?s=#{stock}&a=#{first[0]}&b=#{first[1]}&c=#{first[2]}&d=#{last[0]}&e=#{last[1]}&f=#{last[2]}&g=#{freq}"
 
