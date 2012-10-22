@@ -1,0 +1,3 @@
+Example web scrapers.
+
+yahoo_stocks.rb - Ruby, requires "mechanize"
