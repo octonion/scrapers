@@ -4,3 +4,4 @@ yahoo_stocks.rb - Ruby, requires "mechanize"
 
 yahoo_stocks.py - Python, uses lxml.html
 
+yahoo_stocks.pl - Perl, requires WWW::Mechanize and HTML::TreeBuilder::XPath
