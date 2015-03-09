@@ -1,29 +1,4 @@
 year	team_name	team_id	opponent_name	opponent_id	game_date	team_score	opponent_score	location	neutral_site_location	game_length	attendance
-2014	Alabama	8	Virginia Tech	742	08/31/2013	35	10	Neutral	Atlanta, GA	-	73,114
-2014	Alabama	8	Texas A&M	697	09/14/2013	49	42	Away	""	-	87,596
-2014	Alabama	8	Colorado St.	156	09/21/2013	31	6	Home	""	-	101,821
-2014	Alabama	8	Ole Miss	433	09/28/2013	25	0	Home	""	-	101,821
-2014	Alabama	8	Georgia St.	254	10/05/2013	45	3	Home	""	-	101,254
-2014	Alabama	8	Kentucky	334	10/12/2013	48	7	Away	""	-	69,873
-2014	Alabama	8	Arkansas	31	10/19/2013	52	0	Home	""	-	101,821
-2014	Alabama	8	Tennessee	694	10/26/2013	45	10	Home	""	-	101,821
-2014	Alabama	8	LSU	365	11/09/2013	38	17	Home	""	-	101,821
-2014	Alabama	8	Mississippi St.	430	11/16/2013	20	7	Away	""	-	57,211
-2014	Alabama	8	Chattanooga	693	11/23/2013	49	0	Home	""	-	100,179
-2014	Alabama	8	Auburn	37	11/30/2013	28	34	Away	""	-	87,451
-2014	Alabama	8	Oklahoma	522	01/02/2014	31	45	Neutral	New Orleans, LA	-	70,473
-2014	Appalachian St.	27	Montana	441	08/31/2013	6	30	Away	""	-	26,293
-2014	Appalachian St.	27	N.C. A&T	488	09/07/2013	21	24	Home	""	-	25,723
-2014	Appalachian St.	27	Elon	1068	09/21/2013	31	21	Away	""	-	9,782
-2014	Appalachian St.	27	Charleston So.	48	09/28/2013	24	27	Home	""	-	29,145
-2014	Appalachian St.	27	Citadel	141	10/05/2013	28	31	Away	""	1 OT	13,601
-2014	Appalachian St.	27	Samford	625	10/12/2013	10	34	Home	""	-	24,491
-2014	Appalachian St.	27	Furman	244	10/19/2013	10	27	Away	""	-	7,322
-2014	Appalachian St.	27	Ga. Southern	253	10/26/2013	38	14	Home	""	-	23,901
-2014	Appalachian St.	27	Chattanooga	693	11/02/2013	28	35	Home	""	-	18,991
-2014	Appalachian St.	27	Georgia	257	11/09/2013	6	45	Away	""	-	92,746
-2014	Appalachian St.	27	Wofford	2915	11/16/2013	33	21	Away	""	-	8,315
-2014	Appalachian St.	27	Western Caro.	769	11/23/2013	48	27	Home	""	-	27,115
 2014	Air Force	721	Colgate	153	08/31/2013	38	13	Home	""	-	32,095
 2014	Air Force	721	Utah St.	731	09/07/2013	20	52	Home	""	-	32,716
 2014	Air Force	721	Boise St.	66	09/13/2013	20	42	Away	""	-	36,069
@@ -48,6 +23,45 @@ year	team_name	team_id	opponent_name	opponent_id	game_date	team_score	opponent_s
 2014	Akron	5	Kent St.	331	11/02/2013	16	7	Home	""	-	20,239
 2014	Akron	5	Massachusetts	400	11/16/2013	14	13	Away	""	-	10,599
 2014	Akron	5	Toledo	709	11/29/2013	31	29	Home	""	-	12,506
+2014	Appalachian St.	27	Montana	441	08/31/2013	6	30	Away	""	-	26,293
+2014	Appalachian St.	27	N.C. A&T	488	09/07/2013	21	24	Home	""	-	25,723
+2014	Appalachian St.	27	Elon	1068	09/21/2013	31	21	Away	""	-	9,782
+2014	Appalachian St.	27	Charleston So.	48	09/28/2013	24	27	Home	""	-	29,145
+2014	Appalachian St.	27	Citadel	141	10/05/2013	28	31	Away	""	1 OT	13,601
+2014	Appalachian St.	27	Samford	625	10/12/2013	10	34	Home	""	-	24,491
+2014	Appalachian St.	27	Furman	244	10/19/2013	10	27	Away	""	-	7,322
+2014	Appalachian St.	27	Ga. Southern	253	10/26/2013	38	14	Home	""	-	23,901
+2014	Appalachian St.	27	Chattanooga	693	11/02/2013	28	35	Home	""	-	18,991
+2014	Appalachian St.	27	Georgia	257	11/09/2013	6	45	Away	""	-	92,746
+2014	Appalachian St.	27	Wofford	2915	11/16/2013	33	21	Away	""	-	8,315
+2014	Appalachian St.	27	Western Caro.	769	11/23/2013	48	27	Home	""	-	27,115
+2014	Alabama	8	Virginia Tech	742	08/31/2013	35	10	Neutral	Atlanta, GA	-	73,114
+2014	Alabama	8	Texas A&M	697	09/14/2013	49	42	Away	""	-	87,596
+2014	Alabama	8	Colorado St.	156	09/21/2013	31	6	Home	""	-	101,821
+2014	Alabama	8	Ole Miss	433	09/28/2013	25	0	Home	""	-	101,821
+2014	Alabama	8	Georgia St.	254	10/05/2013	45	3	Home	""	-	101,254
+2014	Alabama	8	Kentucky	334	10/12/2013	48	7	Away	""	-	69,873
+2014	Alabama	8	Arkansas	31	10/19/2013	52	0	Home	""	-	101,821
+2014	Alabama	8	Tennessee	694	10/26/2013	45	10	Home	""	-	101,821
+2014	Alabama	8	LSU	365	11/09/2013	38	17	Home	""	-	101,821
+2014	Alabama	8	Mississippi St.	430	11/16/2013	20	7	Away	""	-	57,211
+2014	Alabama	8	Chattanooga	693	11/23/2013	49	0	Home	""	-	100,179
+2014	Alabama	8	Auburn	37	11/30/2013	28	34	Away	""	-	87,451
+2014	Alabama	8	Oklahoma	522	01/02/2014	31	45	Neutral	New Orleans, LA	-	70,473
+2014	Arizona St.	28	Sacramento St.	102	09/05/2013	55	0	Home	""	-	55,743
+2014	Arizona St.	28	Wisconsin	796	09/14/2013	32	30	Home	""	-	66,155
+2014	Arizona St.	28	Stanford	674	09/21/2013	28	42	Away	""	-	50,424
+2014	Arizona St.	28	Southern California	657	09/28/2013	62	41	Home	""	-	64,987
+2014	Arizona St.	28	Notre Dame	513	10/05/2013	34	37	Neutral	Arlington, TX	-	66,960
+2014	Arizona St.	28	Colorado	157	10/12/2013	54	13	Home	""	-	50,104
+2014	Arizona St.	28	Washington	756	10/19/2013	53	24	Home	""	-	60,057
+2014	Arizona St.	28	Washington St.	754	10/31/2013	55	21	Away	""	-	20,617
+2014	Arizona St.	28	Utah	732	11/09/2013	20	19	Away	""	-	45,183
+2014	Arizona St.	28	Oregon St.	528	11/16/2013	30	17	Home	""	-	62,386
+2014	Arizona St.	28	UCLA	110	11/23/2013	38	33	Away	""	-	70,131
+2014	Arizona St.	28	Arizona	29	11/30/2013	58	21	Home	""	-	72,542
+2014	Arizona St.	28	Stanford	674	12/07/2013	14	38	Home	""	-	69,535
+2014	Arizona St.	28	Texas Tech	700	12/30/2013	23	37	Neutral	San Diego, CA	-	52,930
 2014	Arizona	29	Northern Ariz.	501	08/30/2013	35	0	Home	""	-	53,793
 2014	Arizona	29	UNLV	465	09/07/2013	58	13	Away	""	-	26,950
 2014	Arizona	29	UTSA	706	09/14/2013	38	13	Home	""	-	41,661
@@ -73,20 +87,6 @@ year	team_name	team_id	opponent_name	opponent_id	game_date	team_score	opponent_s
 2014	Arkansas	31	Ole Miss	433	11/09/2013	24	34	Away	""	-	60,856
 2014	Arkansas	31	Mississippi St.	430	11/23/2013	17	24	Home	""	1 OT	45,198
 2014	Arkansas	31	LSU	365	11/29/2013	27	31	Away	""	-	89,656
-2014	Arizona St.	28	Sacramento St.	102	09/05/2013	55	0	Home	""	-	55,743
-2014	Arizona St.	28	Wisconsin	796	09/14/2013	32	30	Home	""	-	66,155
-2014	Arizona St.	28	Stanford	674	09/21/2013	28	42	Away	""	-	50,424
-2014	Arizona St.	28	Southern California	657	09/28/2013	62	41	Home	""	-	64,987
-2014	Arizona St.	28	Notre Dame	513	10/05/2013	34	37	Neutral	Arlington, TX	-	66,960
-2014	Arizona St.	28	Colorado	157	10/12/2013	54	13	Home	""	-	50,104
-2014	Arizona St.	28	Washington	756	10/19/2013	53	24	Home	""	-	60,057
-2014	Arizona St.	28	Washington St.	754	10/31/2013	55	21	Away	""	-	20,617
-2014	Arizona St.	28	Utah	732	11/09/2013	20	19	Away	""	-	45,183
-2014	Arizona St.	28	Oregon St.	528	11/16/2013	30	17	Home	""	-	62,386
-2014	Arizona St.	28	UCLA	110	11/23/2013	38	33	Away	""	-	70,131
-2014	Arizona St.	28	Arizona	29	11/30/2013	58	21	Home	""	-	72,542
-2014	Arizona St.	28	Stanford	674	12/07/2013	14	38	Home	""	-	69,535
-2014	Arizona St.	28	Texas Tech	700	12/30/2013	23	37	Neutral	San Diego, CA	-	52,930
 2014	Arkansas St.	30	Ark.-Pine Bluff	2678	08/31/2013	62	11	Home	""	-	30,451
 2014	Arkansas St.	30	Auburn	37	09/07/2013	9	38	Away	""	-	83,246
 2014	Arkansas St.	30	Troy	716	09/12/2013	41	34	Home	""	-	26,012
@@ -112,6 +112,20 @@ year	team_name	team_id	opponent_name	opponent_id	game_date	team_score	opponent_s
 2014	Army	725	Western Ky.	772	11/09/2013	17	21	Home	""	-	36,276
 2014	Army	725	Hawaii	277	11/30/2013	42	49	Away	""	-	32,690
 2014	Army	725	Navy	726	12/14/2013	7	34	Neutral	Philadelphia, PA	-	65,612
+2014	Auburn	37	Washington St.	754	08/31/2013	31	24	Home	""	-	85,095
+2014	Auburn	37	Arkansas St.	30	09/07/2013	38	9	Home	""	-	83,246
+2014	Auburn	37	Mississippi St.	430	09/14/2013	24	20	Home	""	-	85,817
+2014	Auburn	37	LSU	365	09/21/2013	21	35	Away	""	-	92,638
+2014	Auburn	37	Ole Miss	433	10/05/2013	30	22	Home	""	-	86,504
+2014	Auburn	37	Western Caro.	769	10/12/2013	62	3	Home	""	-	84,171
+2014	Auburn	37	Texas A&M	697	10/19/2013	45	41	Away	""	-	87,165
+2014	Auburn	37	Fla. Atlantic	229	10/26/2013	45	10	Home	""	-	85,517
+2014	Auburn	37	Arkansas	31	11/02/2013	35	17	Away	""	-	66,835
+2014	Auburn	37	Tennessee	694	11/09/2013	55	23	Away	""	-	102,455
+2014	Auburn	37	Georgia	257	11/16/2013	43	38	Home	""	-	87,451
+2014	Auburn	37	Alabama	8	11/30/2013	34	28	Home	""	-	87,451
+2014	Auburn	37	Missouri	434	12/07/2013	59	42	Neutral	Atlanta, GA	-	75,632
+2014	Auburn	37	Florida St.	234	01/06/2014	31	34	Neutral	Pasadena, Calif.	-	94,208
 2014	BYU	77	Virginia	746	08/31/2013	16	19	Away	""	-	53,310
 2014	BYU	77	Texas	703	09/07/2013	40	21	Home	""	-	63,197
 2014	BYU	77	Utah	732	09/21/2013	13	20	Home	""	-	63,470
@@ -382,20 +396,6 @@ year	team_name	team_id	opponent_name	opponent_id	game_date	team_score	opponent_s
 2014	Fresno St.	96	San Jose St.	630	11/29/2013	52	62	Away	""	-	23,574
 2014	Fresno St.	96	Utah St.	731	12/07/2013	24	17	Home	""	-	31,362
 2014	Fresno St.	96	Southern California	657	12/21/2013	20	45	Neutral	Las Vegas, NV	-	42,178
-2014	Auburn	37	Washington St.	754	08/31/2013	31	24	Home	""	-	85,095
-2014	Auburn	37	Arkansas St.	30	09/07/2013	38	9	Home	""	-	83,246
-2014	Auburn	37	Mississippi St.	430	09/14/2013	24	20	Home	""	-	85,817
-2014	Auburn	37	LSU	365	09/21/2013	21	35	Away	""	-	92,638
-2014	Auburn	37	Ole Miss	433	10/05/2013	30	22	Home	""	-	86,504
-2014	Auburn	37	Western Caro.	769	10/12/2013	62	3	Home	""	-	84,171
-2014	Auburn	37	Texas A&M	697	10/19/2013	45	41	Away	""	-	87,165
-2014	Auburn	37	Fla. Atlantic	229	10/26/2013	45	10	Home	""	-	85,517
-2014	Auburn	37	Arkansas	31	11/02/2013	35	17	Away	""	-	66,835
-2014	Auburn	37	Tennessee	694	11/09/2013	55	23	Away	""	-	102,455
-2014	Auburn	37	Georgia	257	11/16/2013	43	38	Home	""	-	87,451
-2014	Auburn	37	Alabama	8	11/30/2013	34	28	Home	""	-	87,451
-2014	Auburn	37	Missouri	434	12/07/2013	59	42	Neutral	Atlanta, GA	-	75,632
-2014	Auburn	37	Florida St.	234	01/06/2014	31	34	Neutral	Pasadena, Calif.	-	94,208
 2014	Ga. Southern	253	Savannah St.	632	08/31/2013	77	9	Home	""	-	16,528
 2014	Ga. Southern	253	Saint Francis (PA)	600	09/07/2013	59	17	Home	""	-	13,758
 2014	Ga. Southern	253	Wofford	2915	09/14/2013	20	30	Away	""	-	8,153
@@ -407,19 +407,6 @@ year	team_name	team_id	opponent_name	opponent_id	game_date	team_score	opponent_s
 2014	Ga. Southern	253	Western Caro.	769	11/09/2013	35	19	Home	""	-	13,507
 2014	Ga. Southern	253	Elon	1068	11/16/2013	38	20	Away	""	-	6,104
 2014	Ga. Southern	253	Florida	235	11/23/2013	26	20	Away	""	-	82,459
-2014	Georgia	257	Clemson	147	08/31/2013	35	38	Away	""	-	84,350
-2014	Georgia	257	South Carolina	648	09/07/2013	41	30	Home	""	-	92,746
-2014	Georgia	257	North Texas	497	09/21/2013	45	21	Home	""	-	92,746
-2014	Georgia	257	LSU	365	09/28/2013	44	41	Home	""	-	92,746
-2014	Georgia	257	Tennessee	694	10/05/2013	34	31	Away	""	1 OT	102,455
-2014	Georgia	257	Missouri	434	10/12/2013	26	41	Home	""	-	92,746
-2014	Georgia	257	Vanderbilt	736	10/19/2013	27	31	Away	""	-	40,350
-2014	Georgia	257	Florida	235	11/02/2013	23	20	Neutral	Jacksonville, FL	-	84,693
-2014	Georgia	257	Appalachian St.	27	11/09/2013	45	6	Home	""	-	92,746
-2014	Georgia	257	Auburn	37	11/16/2013	38	43	Away	""	-	87,451
-2014	Georgia	257	Kentucky	334	11/23/2013	59	17	Home	""	-	92,746
-2014	Georgia	257	Georgia Tech	255	11/30/2013	41	34	Away	""	1 OT	54,914
-2014	Georgia	257	Nebraska	463	01/01/2014	19	24	Neutral	Jacksonville, FL	-	60,712
 2014	Georgia St.	254	Samford	625	08/30/2013	21	31	Home	""	-	17,606
 2014	Georgia St.	254	Chattanooga	693	09/07/2013	14	42	Home	""	-	14,952
 2014	Georgia St.	254	West Virginia	768	09/14/2013	7	41	Away	""	-	57,440
@@ -470,6 +457,19 @@ year	team_name	team_id	opponent_name	opponent_id	game_date	team_score	opponent_s
 2014	Houston	288	Cincinnati	140	11/23/2013	17	24	Home	""	-	20,197
 2014	Houston	288	SMU	663	11/29/2013	34	0	Home	""	-	23,210
 2014	Houston	288	Vanderbilt	736	01/04/2014	24	41	Neutral	Birmingham, AL	-	42,717
+2014	Georgia	257	Clemson	147	08/31/2013	35	38	Away	""	-	84,350
+2014	Georgia	257	South Carolina	648	09/07/2013	41	30	Home	""	-	92,746
+2014	Georgia	257	North Texas	497	09/21/2013	45	21	Home	""	-	92,746
+2014	Georgia	257	LSU	365	09/28/2013	44	41	Home	""	-	92,746
+2014	Georgia	257	Tennessee	694	10/05/2013	34	31	Away	""	1 OT	102,455
+2014	Georgia	257	Missouri	434	10/12/2013	26	41	Home	""	-	92,746
+2014	Georgia	257	Vanderbilt	736	10/19/2013	27	31	Away	""	-	40,350
+2014	Georgia	257	Florida	235	11/02/2013	23	20	Neutral	Jacksonville, FL	-	84,693
+2014	Georgia	257	Appalachian St.	27	11/09/2013	45	6	Home	""	-	92,746
+2014	Georgia	257	Auburn	37	11/16/2013	38	43	Away	""	-	87,451
+2014	Georgia	257	Kentucky	334	11/23/2013	59	17	Home	""	-	92,746
+2014	Georgia	257	Georgia Tech	255	11/30/2013	41	34	Away	""	1 OT	54,914
+2014	Georgia	257	Nebraska	463	01/01/2014	19	24	Neutral	Jacksonville, FL	-	60,712
 2014	Idaho	295	North Texas	497	08/31/2013	6	40	Away	""	-	21,975
 2014	Idaho	295	Wyoming	811	09/07/2013	10	42	Away	""	-	22,030
 2014	Idaho	295	Northern Ill.	503	09/14/2013	35	45	Home	""	-	14,071
@@ -978,6 +978,19 @@ year	team_name	team_id	opponent_name	opponent_id	game_date	team_score	opponent_s
 2014	Oklahoma	522	Kansas St.	327	11/23/2013	41	31	Away	""	-	52,773
 2014	Oklahoma	522	Oklahoma St.	521	12/07/2013	33	24	Away	""	-	58,520
 2014	Oklahoma	522	Alabama	8	01/02/2014	45	31	Neutral	New Orleans, LA	-	70,473
+2014	Ole Miss	433	Vanderbilt	736	08/29/2013	39	35	Away	""	-	40,350
+2014	Ole Miss	433	Southeast Mo. St.	654	09/07/2013	31	13	Home	""	-	60,815
+2014	Ole Miss	433	Texas	703	09/14/2013	44	23	Away	""	-	101,474
+2014	Ole Miss	433	Alabama	8	09/28/2013	0	25	Away	""	-	101,821
+2014	Ole Miss	433	Auburn	37	10/05/2013	22	30	Away	""	-	86,504
+2014	Ole Miss	433	Texas A&M	697	10/12/2013	38	41	Home	""	-	60,950
+2014	Ole Miss	433	LSU	365	10/19/2013	27	24	Home	""	-	61,160
+2014	Ole Miss	433	Idaho	295	10/26/2013	59	14	Home	""	-	57,870
+2014	Ole Miss	433	Arkansas	31	11/09/2013	34	24	Home	""	-	60,856
+2014	Ole Miss	433	Troy	716	11/16/2013	51	21	Home	""	-	52,931
+2014	Ole Miss	433	Missouri	434	11/23/2013	10	24	Home	""	-	61,168
+2014	Ole Miss	433	Mississippi St.	430	11/28/2013	10	17	Away	""	1 OT	55,113
+2014	Ole Miss	433	Georgia Tech	255	12/30/2013	25	17	Neutral	Nashville, TN	-	52,125
 2014	Oklahoma St.	521	Mississippi St.	430	08/31/2013	21	3	Neutral	Houston, TX	-	35,874
 2014	Oklahoma St.	521	UTSA	706	09/07/2013	56	35	Away	""	-	40,977
 2014	Oklahoma St.	521	Lamar	346	09/14/2013	59	3	Home	""	-	59,061
@@ -1003,19 +1016,6 @@ year	team_name	team_id	opponent_name	opponent_id	game_date	team_score	opponent_s
 2014	Old Dominion	523	Idaho	295	11/09/2013	59	38	Away	""	-	14,489
 2014	Old Dominion	523	Campbell	115	11/16/2013	42	14	Home	""	-	20,118
 2014	Old Dominion	523	North Carolina	457	11/23/2013	20	80	Away	""	-	41,500
-2014	Ole Miss	433	Vanderbilt	736	08/29/2013	39	35	Away	""	-	40,350
-2014	Ole Miss	433	Southeast Mo. St.	654	09/07/2013	31	13	Home	""	-	60,815
-2014	Ole Miss	433	Texas	703	09/14/2013	44	23	Away	""	-	101,474
-2014	Ole Miss	433	Alabama	8	09/28/2013	0	25	Away	""	-	101,821
-2014	Ole Miss	433	Auburn	37	10/05/2013	22	30	Away	""	-	86,504
-2014	Ole Miss	433	Texas A&M	697	10/12/2013	38	41	Home	""	-	60,950
-2014	Ole Miss	433	LSU	365	10/19/2013	27	24	Home	""	-	61,160
-2014	Ole Miss	433	Idaho	295	10/26/2013	59	14	Home	""	-	57,870
-2014	Ole Miss	433	Arkansas	31	11/09/2013	34	24	Home	""	-	60,856
-2014	Ole Miss	433	Troy	716	11/16/2013	51	21	Home	""	-	52,931
-2014	Ole Miss	433	Missouri	434	11/23/2013	10	24	Home	""	-	61,168
-2014	Ole Miss	433	Mississippi St.	430	11/28/2013	10	17	Away	""	1 OT	55,113
-2014	Ole Miss	433	Georgia Tech	255	12/30/2013	25	17	Neutral	Nashville, TN	-	52,125
 2014	Oregon	529	Nicholls St.	483	08/31/2013	66	3	Home	""	-	57,769
 2014	Oregon	529	Virginia	746	09/07/2013	59	10	Away	""	-	58,502
 2014	Oregon	529	Tennessee	694	09/14/2013	59	14	Home	""	-	57,895
@@ -1029,19 +1029,6 @@ year	team_name	team_id	opponent_name	opponent_id	game_date	team_score	opponent_s
 2014	Oregon	529	Arizona	29	11/23/2013	16	42	Away	""	-	45,777
 2014	Oregon	529	Oregon St.	528	11/29/2013	36	35	Home	""	-	58,330
 2014	Oregon	529	Texas	703	12/30/2013	30	7	Neutral	San Antonio, TX	-	65,918
-2014	Oregon St.	528	Eastern Wash.	207	08/31/2013	46	49	Home	""	-	41,649
-2014	Oregon St.	528	Hawaii	277	09/07/2013	33	14	Home	""	-	38,179
-2014	Oregon St.	528	Utah	732	09/14/2013	51	48	Away	""	1 OT	45,221
-2014	Oregon St.	528	San Diego St.	626	09/21/2013	34	30	Away	""	-	32,133
-2014	Oregon St.	528	Colorado	157	09/28/2013	44	17	Home	""	-	44,279
-2014	Oregon St.	528	Washington St.	754	10/12/2013	52	24	Away	""	-	31,955
-2014	Oregon St.	528	California	107	10/19/2013	49	17	Away	""	-	44,671
-2014	Oregon St.	528	Stanford	674	10/26/2013	12	20	Home	""	-	44,519
-2014	Oregon St.	528	Southern California	657	11/01/2013	14	31	Home	""	-	45,379
-2014	Oregon St.	528	Arizona St.	28	11/16/2013	17	30	Away	""	-	62,386
-2014	Oregon St.	528	Washington	756	11/23/2013	27	69	Home	""	-	43,779
-2014	Oregon St.	528	Oregon	529	11/29/2013	35	36	Away	""	-	58,330
-2014	Oregon St.	528	Boise St.	66	12/24/2013	38	23	Neutral	Honolulu, HI	-	29,106
 2014	Penn St.	539	Syracuse	688	08/31/2013	23	17	Neutral	East Rutherford, NJ	-	61,202
 2014	Penn St.	539	Eastern Mich.	204	09/07/2013	45	7	Home	""	-	92,863
 2014	Penn St.	539	UCF	128	09/14/2013	31	34	Home	""	-	92,855
@@ -1079,6 +1066,19 @@ year	team_name	team_id	opponent_name	opponent_id	game_date	team_score	opponent_s
 2014	Purdue	559	Penn St.	539	11/16/2013	21	45	Away	""	-	96,491
 2014	Purdue	559	Illinois	301	11/23/2013	16	20	Home	""	-	37,459
 2014	Purdue	559	Indiana	306	11/30/2013	36	56	Away	""	-	44,882
+2014	Oregon St.	528	Eastern Wash.	207	08/31/2013	46	49	Home	""	-	41,649
+2014	Oregon St.	528	Hawaii	277	09/07/2013	33	14	Home	""	-	38,179
+2014	Oregon St.	528	Utah	732	09/14/2013	51	48	Away	""	1 OT	45,221
+2014	Oregon St.	528	San Diego St.	626	09/21/2013	34	30	Away	""	-	32,133
+2014	Oregon St.	528	Colorado	157	09/28/2013	44	17	Home	""	-	44,279
+2014	Oregon St.	528	Washington St.	754	10/12/2013	52	24	Away	""	-	31,955
+2014	Oregon St.	528	California	107	10/19/2013	49	17	Away	""	-	44,671
+2014	Oregon St.	528	Stanford	674	10/26/2013	12	20	Home	""	-	44,519
+2014	Oregon St.	528	Southern California	657	11/01/2013	14	31	Home	""	-	45,379
+2014	Oregon St.	528	Arizona St.	28	11/16/2013	17	30	Away	""	-	62,386
+2014	Oregon St.	528	Washington	756	11/23/2013	27	69	Home	""	-	43,779
+2014	Oregon St.	528	Oregon	529	11/29/2013	35	36	Away	""	-	58,330
+2014	Oregon St.	528	Boise St.	66	12/24/2013	38	23	Neutral	Honolulu, HI	-	29,106
 2014	Rice	574	Texas A&M	697	08/31/2013	31	52	Away	""	-	86,686
 2014	Rice	574	Kansas	328	09/14/2013	23	14	Home	""	-	22,974
 2014	Rice	574	Houston	288	09/21/2013	26	31	Neutral	Houston, TX	-	34,831
@@ -1344,19 +1344,6 @@ year	team_name	team_id	opponent_name	opponent_id	game_date	team_score	opponent_s
 2014	Troy	716	La.-Lafayette	671	11/07/2013	36	41	Away	""	-	22,562
 2014	Troy	716	Ole Miss	433	11/16/2013	21	51	Away	""	-	52,931
 2014	Troy	716	Texas St.	670	11/29/2013	42	28	Home	""	-	13,073
-2014	Tulane	718	Jackson St.	314	08/29/2013	34	7	Home	""	-	20,992
-2014	Tulane	718	South Ala.	646	09/07/2013	39	41	Home	""	-	19,414
-2014	Tulane	718	Louisiana Tech	366	09/12/2013	24	15	Away	""	-	22,035
-2014	Tulane	718	Syracuse	688	09/21/2013	17	52	Away	""	-	36,128
-2014	Tulane	718	La.-Monroe	498	09/28/2013	31	14	Away	""	-	20,476
-2014	Tulane	718	North Texas	497	10/05/2013	24	21	Home	""	-	20,734
-2014	Tulane	718	East Carolina	196	10/12/2013	36	33	Home	""	1 OT	15,157
-2014	Tulane	718	Tulsa	719	10/26/2013	14	7	Home	""	-	22,414
-2014	Tulane	718	Fla. Atlantic	229	11/02/2013	17	34	Away	""	-	16,406
-2014	Tulane	718	UTSA	706	11/09/2013	7	10	Away	""	-	24,606
-2014	Tulane	718	UTEP	704	11/23/2013	45	3	Home	""	-	19,771
-2014	Tulane	718	Rice	574	11/30/2013	13	17	Away	""	-	20,048
-2014	Tulane	718	La.-Lafayette	671	12/21/2013	21	24	Neutral	New Orleans, LA	-	54,728
 2014	Tulsa	719	Bowling Green	71	08/29/2013	7	34	Away	""	-	18,142
 2014	Tulsa	719	Colorado St.	156	09/07/2013	30	27	Home	""	-	22,875
 2014	Tulsa	719	Oklahoma	522	09/14/2013	20	51	Away	""	-	84,229
@@ -1394,6 +1381,31 @@ year	team_name	team_id	opponent_name	opponent_id	game_date	team_score	opponent_s
 2014	UCF	128	South Fla.	651	11/29/2013	23	20	Home	""	-	45,952
 2014	UCF	128	SMU	663	12/07/2013	17	13	Away	""	-	12,589
 2014	UCF	128	Baylor	51	01/01/2014	52	42	Neutral	Glendale, AZ	-	65,172
+2014	Tulane	718	Jackson St.	314	08/29/2013	34	7	Home	""	-	20,992
+2014	Tulane	718	South Ala.	646	09/07/2013	39	41	Home	""	-	19,414
+2014	Tulane	718	Louisiana Tech	366	09/12/2013	24	15	Away	""	-	22,035
+2014	Tulane	718	Syracuse	688	09/21/2013	17	52	Away	""	-	36,128
+2014	Tulane	718	La.-Monroe	498	09/28/2013	31	14	Away	""	-	20,476
+2014	Tulane	718	North Texas	497	10/05/2013	24	21	Home	""	-	20,734
+2014	Tulane	718	East Carolina	196	10/12/2013	36	33	Home	""	1 OT	15,157
+2014	Tulane	718	Tulsa	719	10/26/2013	14	7	Home	""	-	22,414
+2014	Tulane	718	Fla. Atlantic	229	11/02/2013	17	34	Away	""	-	16,406
+2014	Tulane	718	UTSA	706	11/09/2013	7	10	Away	""	-	24,606
+2014	Tulane	718	UTEP	704	11/23/2013	45	3	Home	""	-	19,771
+2014	Tulane	718	Rice	574	11/30/2013	13	17	Away	""	-	20,048
+2014	Tulane	718	La.-Lafayette	671	12/21/2013	21	24	Neutral	New Orleans, LA	-	54,728
+2014	UConn	164	Towson	711	08/29/2013	18	33	Home	""	-	30,689
+2014	UConn	164	Maryland	392	09/14/2013	21	32	Home	""	-	38,916
+2014	UConn	164	Michigan	418	09/21/2013	21	24	Home	""	-	42,704
+2014	UConn	164	Buffalo	86	09/28/2013	12	41	Away	""	-	20,952
+2014	UConn	164	South Fla.	651	10/12/2013	10	13	Home	""	-	37,861
+2014	UConn	164	Cincinnati	140	10/19/2013	16	41	Away	""	-	28,847
+2014	UConn	164	UCF	128	10/26/2013	17	62	Away	""	-	37,924
+2014	UConn	164	Louisville	367	11/08/2013	10	31	Home	""	-	27,104
+2014	UConn	164	SMU	663	11/16/2013	21	38	Away	""	-	14,639
+2014	UConn	164	Temple	690	11/23/2013	28	21	Away	""	-	20,045
+2014	UConn	164	Rutgers	587	11/30/2013	28	17	Home	""	-	22,163
+2014	UConn	164	Memphis	404	12/07/2013	45	10	Home	""	-	17,086
 2014	UCLA	110	Nevada	466	08/31/2013	58	20	Home	""	-	60,562
 2014	UCLA	110	Nebraska	463	09/14/2013	41	21	Away	""	-	91,471
 2014	UCLA	110	New Mexico St.	472	09/21/2013	59	13	Home	""	-	58,263
@@ -1407,18 +1419,6 @@ year	team_name	team_id	opponent_name	opponent_id	game_date	team_score	opponent_s
 2014	UCLA	110	Arizona St.	28	11/23/2013	33	38	Home	""	-	70,131
 2014	UCLA	110	Southern California	657	11/30/2013	35	14	Away	""	-	86,037
 2014	UCLA	110	Virginia Tech	742	12/31/2013	42	12	Neutral	El Paso, TX	-	47,912
-2014	UConn	164	Towson	711	08/29/2013	18	33	Home	""	-	30,689
-2014	UConn	164	Maryland	392	09/14/2013	21	32	Home	""	-	38,916
-2014	UConn	164	Michigan	418	09/21/2013	21	24	Home	""	-	42,704
-2014	UConn	164	Buffalo	86	09/28/2013	12	41	Away	""	-	20,952
-2014	UConn	164	South Fla.	651	10/12/2013	10	13	Home	""	-	37,861
-2014	UConn	164	Cincinnati	140	10/19/2013	16	41	Away	""	-	28,847
-2014	UConn	164	UCF	128	10/26/2013	17	62	Away	""	-	37,924
-2014	UConn	164	Louisville	367	11/08/2013	10	31	Home	""	-	27,104
-2014	UConn	164	SMU	663	11/16/2013	21	38	Away	""	-	14,639
-2014	UConn	164	Temple	690	11/23/2013	28	21	Away	""	-	20,045
-2014	UConn	164	Rutgers	587	11/30/2013	28	17	Home	""	-	22,163
-2014	UConn	164	Memphis	404	12/07/2013	45	10	Home	""	-	17,086
 2014	UNLV	465	Minnesota	428	08/29/2013	23	51	Away	""	-	44,217
 2014	UNLV	465	Arizona	29	09/07/2013	13	58	Home	""	-	26,950
 2014	UNLV	465	Central Mich.	129	09/14/2013	31	21	Home	""	-	10,981
